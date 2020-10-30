@@ -9,7 +9,7 @@
         <img src="https://th.virbac.com/files/live/sites/virbac-th/files/predefined-files/species/pictures/Cats/Cat%20species%202%20-%20280x205.jpg">
         <br>
         <p>A : คืนก่อนครับ</p>
-        <p>B : ทำไมครับ คุณจะเล่าให้ผมฟังว่าคืนก่อนคุณพาแฟนไปเที่ยวสินะ/p>
+        <p>B : ทำไมครับ คุณจะเล่าให้ผมฟังว่าคืนก่อนคุณพาแฟนไปเที่ยวสินะ</p>
         <p>A : ไม่ครับ เงินที่คุณยืมผมไปอะ คืนก่อนครับ กูจะแย่งอาหารแมวแดกแล้วครับ</p>  
     </body>
 </html>
