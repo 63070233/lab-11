@@ -1,6 +1,6 @@
 <html>
    <head>
-    <title>พัชรพล ศาศวัตเตชะ 63070115</titile>
+    <title>พัชรพล ศาศวัตเตชะ 63070115</title>
    </head>
    <body>
     <a href = "photo.html"> Work1 6/11/20</a><br>
