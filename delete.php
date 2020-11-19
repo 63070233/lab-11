@@ -18,7 +18,7 @@
 					<div class="card-body">
 						<h2 align="center">
 						<?php
-							$conn = mysqli_real_connect($conn, 'databasebas.mysql.database.azure.com', 'baspop01@databasebas', 'Phatcharapon123', 'ITFLAB', 3306);
+							$conn = mysqli_real_connect($conn, 'databasebas.mysql.database.azure.com', 'baspop01@databasebas', 'Phatcharapon123', 'ITFLab', 3306);
 							if (mysqli_query($conn, 'DELETE FROM guestbook WHERE ID = '.$_GET['ID'].'')) {
 								echo 'DELETE COMPLETED';
 							}
