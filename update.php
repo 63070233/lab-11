@@ -1,5 +1,5 @@
 <?php
-	$conn = mysqli_real_connect($conn, 'databasebas.mysql.database.azure.com', 'baspop01@databasebas', 'Phatcharapon123', 'ITFLAB', 3306);
+	$conn = mysqli_real_connect($conn, 'databasebas.mysql.database.azure.com', 'baspop01@databasebas', 'Phatcharapon123', 'ITFLab', 3306);
 	$name = $_POST['name'];
 	$comment = $_POST['comment'];
 	$link = $_POST['link'];
