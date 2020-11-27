@@ -33,7 +33,6 @@
 							<table class="table table-borderless table-hover">
 								<thead>
 									<tr>
-										<th width="150px">Action</th>
 										<th>ชื่อสินค้า</th>
 										<th>ราคาต่อหน่วย</th>
                                         <th>จำนวน</th>
